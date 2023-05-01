@@ -1,7 +1,7 @@
 # H54-200-S500-R Interface
 
 Please note that the H54-200-S500-R is no longer sold. For interface with the next closest motor, 
-the [ph54-200-s500-r](https://emanual.robotis.com/docs/en/dxl/p/ph54-200-s500-r/), that the registers located in 
+the [ph54-200-s500-r](https://emanual.robotis.com/docs/en/dxl/p/ph54-200-s500-r/), the registers located in 
 `switchers/globals.py` must be updated accordingly
 
 ```
